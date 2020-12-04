@@ -5,4 +5,4 @@
 ## 類別圖
 ![Class](類別圖.jpg "類別圖")
 
-![Program](圖片1.jpg "Web式設計")
+![Program](圖片1.g "Web式設計")
